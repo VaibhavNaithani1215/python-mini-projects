@@ -1,2 +1,2 @@
 # python-mini-projects
-My Python practice and mini projects from basics to advanced
+My Pythonnmini projects from basics to advanced
